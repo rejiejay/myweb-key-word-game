@@ -1,0 +1,23 @@
+.introduction {
+  position: relative;
+  font-size: 14px;
+  width: 100%;
+  min-height: 100%;
+  color: #f5f5f5;
+  background-color: #1890ff;
+}
+.introduction .introduction-title {
+  padding: 25px;
+  text-align: center;
+  color: #fff;
+  font-size: 24px;
+  font-weight: bold;
+}
+.introduction .introduction-des {
+  padding: 0px 15px 15px 15px;
+}
+.introduction .introduction-des span {
+  background: #2f54eb;
+  color: #fff;
+  font-weight: bold;
+}
